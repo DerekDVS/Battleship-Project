@@ -1,0 +1,8 @@
+﻿  Menu.cpp
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(49,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(49,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(55,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(55,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(70,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CODE_FILES\CPS 122\HW\PA8\Menu.cpp(70,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PA8.vcxproj -> C:\CODE_FILES\CPS 122\HW\PA8\Debug\PA8.exe
